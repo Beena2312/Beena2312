@@ -4,7 +4,7 @@ my unequivocal love for making things that change the world. that's why I like t
 
 
 Talking about personal information.
-- 👋 Hi, I’m Beena
+- 👋 I’m Beena Suryavanshi.
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning different projects in programing. 
 - 💞️ I’m looking to collaborate on Selenium & Restassured projects.
